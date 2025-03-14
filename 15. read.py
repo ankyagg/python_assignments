@@ -1,4 +1,4 @@
-with open("aniket.txt", 'r') as file:
+with open("myfile.txt", 'r') as file:
     max_len = 0
 
     text = file.read()
